@@ -1,5 +1,6 @@
 # math-mcp-server
 
+<a href="https://smithery.ai/server/@maragathamani-boothalingam/math-mcp-server-try"><img alt="Smithery Badge" src="https://smithery.ai/badge/@maragathamani-boothalingam/math-mcp-server-try"></a>
 [![smithery badge](https://smithery.ai/badge/@swaroopkasaraneni/math-mcp-server)](https://smithery.ai/server/@swaroopkasaraneni/math-mcp-server)
 
 Math MCP is a protocol that exposes mathematical operations for Claude Desktop. This project fulfills the Model Context Protocol (MCP) standard, allowing dynamic integration of large language models with external applications. Once you start the Math MCP, the protocol will listen for calls from an MCP client, and respond with the operations it exposes via MCP.
@@ -44,4 +45,3 @@ This project is licensed under the MIT License.
 
 ### Credits
 - Developed by Swaroop Kasaraneni
-
