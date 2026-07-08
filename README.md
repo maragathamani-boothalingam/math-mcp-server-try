@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/maragathamani-boothalingam-math-mcp-server-try-badge.png)](https://mseep.ai/app/maragathamani-boothalingam-math-mcp-server-try)
+
 # math-mcp-server
 
 [![smithery badge](https://smithery.ai/badge/@swaroopkasaraneni/math-mcp-server)](https://smithery.ai/server/@swaroopkasaraneni/math-mcp-server)
